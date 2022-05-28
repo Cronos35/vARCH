@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f971b8372e50744281a814137c143ee, type: 3}
+  m_Name: TriplePillar
+  m_EditorClassIdentifier: 
+  lightBlockProperties:
+  - _spacingProperties:
+      lightArraySpacing: 0.99
+      lightRowSpacing: 0.1
+      singleLightSpacing: 0
+    _arrayCounts:
+      lightArrayCount: 10
+      lightRowCount: 20
+      lightsPerRow: 1
+    _offsets:
+      diagonalOffset: 0
+      horizontalOffset: 0
+      rowVerticalOffset: 0
+    _rotations:
+      lightRotation: {x: 45, y: 0, z: 0}
+      oddLightsRotation: {x: 45, y: 0, z: 0}
+    _circularArrangementData:
+      arc: 360
+      radius: 2.27
+      coneTightnessFactor: 1
+      enableArrayRotation: 1
+      _minRotationSpeed: 1
+      _maxRotationSpeed: 5
+      rotationDirection: 0
+    _selectedLightObject: 0
+    _lightColors:
+      primaryColor: {r: 1, g: 0, b: 0.3377614, a: 0}
+      secondaryColor: {r: 0, g: 0.41552782, b: 1, a: 0}
+      tertiaryColor: {r: 1, g: 0.02282181, b: 0, a: 0}
+      colorAssignmentMode: 0
+    _arrangementData:
+      arrayOrientation: 1
+      lightOrientation: 0
+      arrangementShape: 1
+    _lightTriggerDirection: 2
+    _spectrumRangeAssignment: 0
+    _localPosition: {x: 2.48, y: -1.85, z: -7.01}
+    _blockRotation: {x: 0, y: 0, z: 0, w: 0}
+  - _spacingProperties:
+      lightArraySpacing: 0.99
+      lightRowSpacing: 0.1
+      singleLightSpacing: 0
+    _arrayCounts:
+      lightArrayCount: 10
+      lightRowCount: 20
+      lightsPerRow: 1
+    _offsets:
+      diagonalOffset: 0
+      horizontalOffset: 0
+      rowVerticalOffset: 0
+    _rotations:
+      lightRotation: {x: 45, y: 0, z: 0}
+      oddLightsRotation: {x: 45, y: 0, z: 0}
+    _circularArrangementData:
+      arc: 360
+      radius: 2
+      coneTightnessFactor: 1
+      enableArrayRotation: 1
+      _minRotationSpeed: 1
+      _maxRotationSpeed: 5
+      rotationDirection: 1
+    _selectedLightObject: 0
+    _lightColors:
+      primaryColor: {r: 1, g: 0, b: 0.3377614, a: 0}
+      secondaryColor: {r: 0, g: 0.41552782, b: 1, a: 0}
+      tertiaryColor: {r: 1, g: 0.02282181, b: 0, a: 0}
+      colorAssignmentMode: 4
+    _arrangementData:
+      arrayOrientation: 1
+      lightOrientation: 0
+      arrangementShape: 1
+    _lightTriggerDirection: 2
+    _spectrumRangeAssignment: 3
+    _localPosition: {x: 2.48, y: -1.85, z: 0}
+    _blockRotation: {x: 0, y: 0, z: 0, w: 0}
+  - _spacingProperties:
+      lightArraySpacing: 0.99
+      lightRowSpacing: 2.61
+      singleLightSpacing: 0
+    _arrayCounts:
+      lightArrayCount: 10
+      lightRowCount: 20
+      lightsPerRow: 1
+    _offsets:
+      diagonalOffset: 0
+      horizontalOffset: 0
+      rowVerticalOffset: 0
+    _rotations:
+      lightRotation: {x: 0, y: 0, z: 0}
+      oddLightsRotation: {x: 0, y: 0, z: 0}
+    _circularArrangementData:
+      arc: 360
+      radius: 2
+      coneTightnessFactor: 1
+      enableArrayRotation: 1
+      _minRotationSpeed: 1
+      _maxRotationSpeed: 5
+      rotationDirection: 0
+    _selectedLightObject: 0
+    _lightColors:
+      primaryColor: {r: 1, g: 0, b: 0.3377614, a: 0}
+      secondaryColor: {r: 0, g: 0.41552782, b: 1, a: 0}
+      tertiaryColor: {r: 1, g: 0.02282181, b: 0, a: 0}
+      colorAssignmentMode: 1
+    _arrangementData:
+      arrayOrientation: 1
+      lightOrientation: 0
+      arrangementShape: 1
+    _lightTriggerDirection: 2
+    _spectrumRangeAssignment: 3
+    _localPosition: {x: 2.48, y: -1.85, z: 7.01}
+    _blockRotation: {x: 0, y: 0, z: 0, w: 0}

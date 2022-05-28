@@ -1,0 +1,3 @@
+Credits to Hallidev at Github for the WASAPI library 
+
+https://github.com/hallidev/UnityWASAPILoopbackAudio

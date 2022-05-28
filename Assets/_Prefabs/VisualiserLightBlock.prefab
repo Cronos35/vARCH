@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4351565143982537372
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4351565143982537345}
+  - component: {fileID: 4351565143982537374}
+  - component: {fileID: 4351565143982537375}
+  m_Layer: 0
+  m_Name: VisualiserLightBlock
+  m_TagString: Untagged
+  m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4351565143982537345
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4351565143982537372}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 22.45, y: 2.4, z: -4.61}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!114 &4351565143982537374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4351565143982537372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aae2505282780ec4fbeed4a6f8deeee3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventSystem: {fileID: 11400000, guid: 1ec658f72f38fdf4bad1cce182902a46, type: 2}
+  _primaryColor: {r: 0, g: 0, b: 0, a: 0}
+  _secondaryColor: {r: 0, g: 0, b: 0, a: 0}
+  _tertiaryColor: {r: 0, g: 0, b: 0, a: 0}
+  _lightColors: []
+  _colorAssignmentMode: 0
+  _lightTriggerDirection: 0
+  _arrayRotation: 0
+  _rangeAssignment: 0
+  _arrayOrientation: 0
+  _lightOrientation: 0
+  _arrangementShape: 0
+  _lightArrayController: {fileID: 5129160133011028012, guid: 3f0ed913e88fa5249b1838cf7cc7603a,
+    type: 3}
+  _lightRowController: {fileID: 1596430643675794218, guid: 949c3e48b7508c347bd3227168afd50f,
+    type: 3}
+  _lightPrefabs:
+  - {fileID: 4157189348484100155, guid: e66915ba277ba4a48895abb2e617a9fe, type: 3}
+  - {fileID: 4157189348484100155, guid: 80160f570a8e20644a710715894c8045, type: 3}
+  - {fileID: 5841182886573142370, guid: 3d0ebd21ecb52124db2210b573a62484, type: 3}
+  - {fileID: 5395506230640826995, guid: ebd8ea8ff093f0346a25f82bcf65a93c, type: 3}
+  - {fileID: 5354786604484511465, guid: 282fb63bfbad302449b9fac6357e8096, type: 3}
+  _selectedLightType: 0
+  _lightArrayControllerCount: 0
+  _lightRowsPerController: 0
+  _lightsPerRow: 0
+  _lightArraySpacing: 1
+  _lightRowSpacing: 1
+  _singleLightSpacing: 1
+  _diagonalOffset: 1
+  _horizontalOffset: 1
+  _rowVerticalOffset: 1
+  _lightRotation: {x: 1, y: 1, z: 1}
+  _oddLightsRotation: {x: 1, y: 1, z: 1}
+  _radius: 1
+  _coneTightnessFactor: 1
+  _arc: 0
+  _staggeredRotationSpeed: 0
+  _enableRotation: 0
+  _rotationDirection: 0
+  _minRotationSpeed: 0
+  _arrayRotationSpeed: 0
+--- !u!114 &4351565143982537375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4351565143982537372}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 822f6f43b3d197e49b4cea378bdea0e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSpeed: 5
+  rotationDirection: 0
+  rotationAxis: 1

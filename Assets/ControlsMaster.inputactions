@@ -1,0 +1,40 @@
+{
+    "name": "ControlsMaster",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "39c41583-4373-4828-98bd-f87b61c928e5",
+            "actions": [
+                {
+                    "name": "MouseMove",
+                    "type": "Value",
+                    "id": "febb7c02-6173-4474-a633-2390d4730452",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6436786f-c7f6-4d42-b672-f01d8c8d8e07",
+                    "path": "<Mouse>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MnK",
+                    "action": "MouseMove",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "MnK",
+            "bindingGroup": "MnK",
+            "devices": []
+        }
+    ]
+}

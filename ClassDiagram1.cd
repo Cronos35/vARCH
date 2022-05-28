@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Assets._Scripts.AudioSyncMaterial" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAGAAAAAAAACACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Scripts\AudioSyncMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioSpectrum" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEABAACAAAAAAAAAAAAAAAAAAAAAAAAAIAABAAEI=</HashCode>
+      <FileName>Assets\_Scripts\AudioSpectrum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets._Scripts.AudioSyncer" Collapsed="true">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAQCAAACQAECAAAAAAAAAAAAAQBAwAAAEAAAA=</HashCode>
+      <FileName>Assets\_Scripts\AudioSyncer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets._Scripts.AudioSyncLight" Collapsed="true">
+    <Position X="12" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAAAAAQAAAAAAAAAAAAAAAAAAIAAEAAAA=</HashCode>
+      <FileName>Assets\_Scripts\AudioSyncLight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets._Scripts.AudioSyncScale" Collapsed="true">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\_Scripts\AudioSyncScale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets._Scripts.CameraEmitter" Collapsed="true">
+    <Position X="20.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\_Scripts\CameraEmitter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets._Scripts.CustomEvents" Collapsed="true">
+    <Position X="22.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Scripts\CustomEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets._Scripts.LightArrayController" Collapsed="true">
+    <Position X="14.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAAAAAAAAAAAAAEAAAAAQAACAAAAAIAAAAAAEICBA=</HashCode>
+      <FileName>Assets\_Scripts\LightArrayController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets._Scripts.LightBlinker" Collapsed="true">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAMAAAAAAAAQACAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\_Scripts\LightBlinker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets._Scripts.LightRowController" Collapsed="true">
+    <Position X="20.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAUAAAAAAIAAAECAAAAAAIAAEA=</HashCode>
+      <FileName>Assets\_Scripts\LightRowController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets._Scripts.OutlineShader" Collapsed="true">
+    <Position X="22.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAQAAAAAgAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Scripts\OutlineShader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets._Scripts.VFXController" Collapsed="true">
+    <Position X="16.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAAAAAAAAAQAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\_Scripts\VFXController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets._Scripts.VisualizationManager" Collapsed="true">
+    <Position X="19" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAREAAAEQCBAAoBAAAACACDAACAAAMCgKAAAIAAAAUA=</HashCode>
+      <FileName>Assets\_Scripts\VisualizationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Assets._Scripts.SpectrumRangeAssignment" Collapsed="true">
+    <Position X="22.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAQAAEAAAAAAAIBAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\_Scripts\AudioSyncer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Assets._Scripts.LightArrayOrientation" Collapsed="true">
+    <Position X="20.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Scripts\VisualizationManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Assets._Scripts.EQBarArrangement" Collapsed="true">
+    <Position X="19" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAIIAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Scripts\VisualizationManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
