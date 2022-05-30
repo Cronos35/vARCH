@@ -1,6 +1,7 @@
 # vARCH
 Virtual Audio Reactive Concert Hall is an audio reactive virtual stage built in Unity made to enhance vTuber music streams. It listens to any app open in the background playing audio and uses the audio data to control lights in the virtual stage.
 
+# How to use
 To use this, simply open <b>Virtual Audio Reactive Concert Hall.exe</b> and add it as a background in your streaming software.
 
 # Customization Features
